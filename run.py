@@ -1,10 +1,10 @@
-#Author Mohammad sultani
+#Author MR.RAKIB.404
 
 import os, platform
 os.system('git pull')
-try:os.system('mkdir ok')
+try:os.system('mr ok')
 except:pass
-try:os.system('mkdir cp')
+try:os.system('mr cp')
 except:pass
 try:
 
